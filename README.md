@@ -1,3 +1,6 @@
+[![IMAGE_ALT](https://img.youtube.com/vi/deg8bOoziaE/maxresdefault.jpg)](https://www.youtube.com/watch?v=deg8bOoziaE)
+
+
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
     <img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png">
